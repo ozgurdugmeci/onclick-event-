@@ -1,2 +1,2 @@
 # onclick-event-
-tıo get the x value when clicked
+to get the x value when clicked on matplot lib grapfics you can use this code
